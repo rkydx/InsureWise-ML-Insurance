@@ -1,0 +1,111 @@
+age,weight,height,Annual_Income,smoker,city,Residency_status,occupation,insurance_premium_category
+67,119.8,1.56,239943,TRUE,Sengkang,PR,retired,High
+36,101.1,1.83,234919,TRUE,Tampines,Foreigner,business_owner,High
+39,56.8,1.64,251935,TRUE,Outrampark,PR,retired,High
+22,109.4,1.55,108511,TRUE,Serangoon,Citizen,student,Medium
+69,62.2,1.6,248800,TRUE,Outrampark,Foreigner,retired,High
+53,62.9,1.66,71507,FALSE,Payalebar,Citizen,freelancer,Medium
+19,80.1,1.68,33638,FALSE,Woodland,Citizen,retired,Low
+31,105.7,1.78,40958,FALSE,Boonlay,Citizen,government_job,Low
+73,58,1.58,76710,TRUE,Holland Village,PR,freelancer,Medium
+58,74.4,1.73,131355,TRUE,Redhill,Citizen,freelancer,Medium
+29,71.9,1.77,104696,FALSE,Tampines,Citizen,freelancer,Medium
+25,77.2,1.56,40961,FALSE,Redhill,Citizen,government_job,Low
+42,95.2,1.78,87838,TRUE,Holland Village,PR,private_job,Medium
+28,93.4,1.84,32137,FALSE,Bedok,Citizen,unemployed,Low
+49,89.3,1.65,147498,FALSE,Payalebar,PR,student,Medium
+61,61.7,1.68,25934,FALSE,Boonlay,Citizen,retired,Low
+66,70.2,1.59,46654,FALSE,Redhill,Citizen,unemployed,Low
+65,90.1,1.7,74365,TRUE,Boonlay,PR,freelancer,Medium
+52,80.9,1.8,98384,TRUE,Payalebar,Citizen,student,Medium
+24,111.2,1.6,119264,TRUE,Pungol,PR,private_job,Medium
+34,58.2,1.85,30719,FALSE,Cck,Citizen,retired,Low
+69,92.7,1.84,228924,TRUE,Bugis,Foreigner,retired,High
+57,106.4,1.83,333958,TRUE,Holland Village,PR,business_owner,High
+35,70.3,1.78,85569,TRUE,Pasir Ris,PR,freelancer,Medium
+50,54.2,1.66,77017,FALSE,Pasir Ris,Citizen,private_job,Medium
+59,60.2,1.55,265598,TRUE,Pasir Ris,Foreigner,business_owner,High
+33,79,1.61,24737,FALSE,Sengkang,Citizen,government_job,Low
+58,111.4,1.78,138907,FALSE,Pungol,Citizen,freelancer,Medium
+38,101.2,1.79,45825,FALSE,Serangoon,Citizen,retired,Low
+60,117.8,1.66,244654,TRUE,Pungol,PR,business_owner,High
+35,89.6,1.73,53322,FALSE,Boonlay,Citizen,government_job,Low
+39,51.1,1.83,35091,FALSE,Pungol,Citizen,government_job,Low
+47,113.7,1.9,140782,TRUE,Bugis,PR,student,Medium
+73,67.5,1.76,46528,FALSE,Serangoon,Citizen,retired,Low
+75,100.8,1.75,20742,FALSE,Payalebar,Citizen,government_job,Low
+59,59.3,1.69,140455,TRUE,Holland Village,Citizen,student,Medium
+61,58.4,1.64,38691,FALSE,Woodland,Citizen,government_job,Low
+26,57.2,1.79,24888,FALSE,Outrampark,Citizen,retired,Low
+74,111.2,1.83,50557,FALSE,Sengkang,Citizen,retired,Low
+51,100.6,1.68,137901,FALSE,Harbour Front,PR,private_job,Medium
+44,57,1.53,128683,FALSE,Redhill,Citizen,private_job,Medium
+64,59.8,1.63,121549,FALSE,Serangoon,Citizen,private_job,Medium
+23,69.9,1.79,24263,FALSE,Pasir Ris,Citizen,retired,Low
+72,85.7,1.71,93483,FALSE,Tampines,PR,private_job,Medium
+59,77,1.6,131884,TRUE,Pungol,Citizen,student,Medium
+58,75.3,1.5,49995,FALSE,Bugis,Citizen,unemployed,Low
+42,83,1.57,336381,TRUE,Bedok,PR,business_owner,High
+55,116.4,1.87,50027,FALSE,Holland Village,Citizen,government_job,Low
+36,94.8,1.66,112579,TRUE,Tampines,PR,freelancer,Medium
+23,106.6,1.58,45426,FALSE,Payalebar,Citizen,government_job,Low
+55,66.7,1.88,76381,TRUE,Sengkang,PR,freelancer,Medium
+45,101.9,1.62,82214,TRUE,Sengkang,PR,freelancer,Medium
+18,116.7,1.57,24895,FALSE,Bugis,Citizen,retired,Low
+41,101.3,1.85,32461,FALSE,Boonlay,Citizen,government_job,Low
+75,54.5,1.61,86500,TRUE,Pungol,Citizen,student,Medium
+47,75.7,1.73,20174,FALSE,Boonlay,Citizen,unemployed,Low
+24,101.9,1.55,107059,FALSE,Bedok,PR,freelancer,Medium
+72,76.8,1.69,141330,TRUE,Bugis,PR,student,Medium
+72,95.9,1.79,233886,TRUE,Outrampark,Foreigner,freelancer,High
+61,118.7,1.82,277284,TRUE,Sengkang,Foreigner,business_owner,High
+41,101.3,1.81,46736,FALSE,Bugis,Citizen,retired,Low
+32,102.4,1.68,213915,TRUE,Holland Village,Foreigner,freelancer,High
+34,72.8,1.83,24820,FALSE,Tampines,Citizen,government_job,Low
+47,71.3,1.82,330599,TRUE,Cck,Foreigner,retired,High
+71,117.8,1.78,336230,TRUE,Holland Village,PR,retired,High
+46,106.3,1.68,38063,FALSE,Sengkang,Citizen,retired,Low
+18,63.9,1.59,237536,TRUE,Outrampark,Foreigner,freelancer,High
+22,56.4,1.82,327693,TRUE,Sengkang,Foreigner,retired,High
+20,80.3,1.87,21634,FALSE,Pungol,Citizen,unemployed,Low
+46,67.2,1.75,277651,TRUE,Pungol,PR,freelancer,High
+69,99.9,1.65,31706,FALSE,Holland Village,Citizen,government_job,Low
+38,54.1,1.81,23452,FALSE,Holland Village,Citizen,unemployed,Low
+70,116.3,1.81,54571,FALSE,Outrampark,Citizen,retired,Low
+69,84.3,1.62,266098,TRUE,Bedok,Foreigner,retired,High
+63,71.1,1.54,74664,TRUE,Bugis,Citizen,student,Medium
+53,62.3,1.74,348689,TRUE,Woodland,PR,business_owner,High
+62,99.1,1.5,258871,TRUE,Pasir Ris,PR,freelancer,High
+67,114.5,1.74,27844,FALSE,Serangoon,Citizen,unemployed,Low
+52,95.6,1.85,295642,TRUE,Bugis,PR,business_owner,High
+39,55.3,1.56,23548,FALSE,Outrampark,Citizen,government_job,Low
+56,95.8,1.67,235794,TRUE,Bugis,Foreigner,business_owner,High
+41,82.6,1.61,253738,TRUE,Pasir Ris,PR,freelancer,High
+35,56,1.77,26924,FALSE,Boonlay,Citizen,government_job,Low
+61,83.3,1.85,206072,TRUE,Payalebar,Foreigner,retired,High
+75,86.2,1.73,82396,TRUE,Sengkang,PR,student,Medium
+33,51.4,1.86,272785,TRUE,Tampines,Foreigner,business_owner,High
+35,66,1.89,291735,TRUE,Woodland,Foreigner,business_owner,High
+30,82,1.6,31573,FALSE,Woodland,Citizen,government_job,Low
+54,97.4,1.76,244406,TRUE,Serangoon,PR,business_owner,High
+24,108.8,1.89,261432,TRUE,Tampines,PR,retired,High
+59,54,1.6,25730,FALSE,Serangoon,Citizen,government_job,Low
+38,119.8,1.76,263290,TRUE,Harbour Front,Foreigner,retired,High
+37,62.7,1.85,34099,FALSE,Pungol,Citizen,unemployed,Low
+23,79.4,1.85,51825,FALSE,Outrampark,Citizen,government_job,Low
+50,105.4,1.78,39268,FALSE,Harbour Front,Citizen,government_job,Low
+36,52.8,1.57,45166,FALSE,Outrampark,Citizen,government_job,Low
+26,113.8,1.54,59785,FALSE,Boonlay,Citizen,retired,Low
+52,60.8,1.8,34839,FALSE,Woodland,Citizen,retired,Low
+27,101.1,1.82,213254,TRUE,Bedok,Foreigner,business_owner,High
+40,70,1.59,233957,TRUE,Harbour Front,Foreigner,freelancer,High
+58,74.4,1.73,43871,FALSE,Redhill,Citizen,retired,Low
+30,71.9,1.77,93872,FALSE,Tampines,PR,student,Medium
+25,77.2,1.56,44862,FALSE,Redhill,Citizen,retired,Low
+45,95.2,1.78,113213,TRUE,Holland Village,PR,freelancer,Medium
+28,93.4,1.84,57257,FALSE,Bedok,Citizen,unemployed,Low
+49,89.3,1.65,146114,TRUE,Payalebar,Citizen,freelancer,Medium
+34,61.7,1.68,27374,FALSE,Boonlay,Citizen,retired,Low
+66,70.2,1.59,89961,FALSE,Redhill,PR,student,Medium
+57,90.1,1.7,77087,TRUE,Boonlay,Citizen,student,Medium
+52,80.9,1.8,149405,FALSE,Payalebar,Citizen,freelancer,Medium
