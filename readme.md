@@ -1,6 +1,6 @@
 **InsureWise – ML-powered Insurance Premium Prediction**
 
-**InsureWise** is an end-to-end machine learning application that predicts insurance premium categories based on user details such as age, BMI, lifestyle, occupation, income, and city tier.
+**InsureWise** is an end-to-end machine learning application that predicts insurance premium categories based on user details such as Age, BMI, lifestyle, occupation, income, and Living Status in Singapore.
 
 It provides:
 - Backend: FastAPI serving the ML model
